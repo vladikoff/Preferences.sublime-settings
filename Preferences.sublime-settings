@@ -1,13 +1,15 @@
 {
-	"auto_match_enabled": false,
-	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
-	"font_size": 18,
-	"hot_exit": false,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"open_files_in_new_window": false,
-	"remember_open_files": false,
-	"tab_size": 2
+  "auto_match_enabled": false,
+  "color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+  "font_size": 18,
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "open_files_in_new_window": false,
+  "remember_open_files": false,
+  "draw_white_space": "all",
+  "translate_tabs_to_spaces": true,
+  "tab_size": 2
 }
